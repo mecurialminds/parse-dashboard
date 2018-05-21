@@ -6,7 +6,7 @@
     "appName": "mmparse-server"
   }],
   "users": [{
-    "user":"user",
-    "pass":"pass"
+    "user":"mmdemo",
+    "pass":"@mm12345"
   }]
 }
