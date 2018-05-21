@@ -10,7 +10,8 @@
 const path = require('path');
 const jsonFile = require('json-file-plus');
 const express = require('express');
-const parseDashboard = require('./app');
+//const parseDashboard = require('./app');
+const parseDashboard = require('parse-dashboard');
 
 const program = require('commander');
 program.option('--appId [appId]', 'the app Id of the app you would like to manage.');
