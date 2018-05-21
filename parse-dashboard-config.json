@@ -7,6 +7,7 @@
   }],
   "users": [{
     "user":"mmdemo",
-    "pass":"@mm12345"
+    "pass":"@mm12345",
+    "apps":[{"appId":"myAppId"}]
   }]
 }
