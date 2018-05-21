@@ -5,6 +5,7 @@
     "masterKey": "2swdswqewdwqd3dqwdqq33d3eq",
     "appName": "mmparse-server"
   }],
+  "trustProxy": 1,
   "users": [{
     "user":"mmdemo",
     "pass":"@mm12345",
