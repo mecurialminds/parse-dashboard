@@ -1,9 +1,9 @@
 {
   "apps": [{
-    "serverURL": "your-app-url/parse",
-    "appId": "your-app-id",
-    "masterKey": "your-master-key",
-    "appName": "your-app-name"
+    "serverURL": "mmparse-server.herokuapp.com/parse",
+    "appId": "myAppId",
+    "masterKey": "2swdswqewdwqd3dqwdqq33d3eq",
+    "appName": "mmparse-server"
   }],
   "users": [{
     "user":"user",
