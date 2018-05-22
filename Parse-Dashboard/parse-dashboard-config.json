@@ -1,6 +1,6 @@
 {
   "apps": [{
-    "serverURL": "mmparse-server.herokuapp.com/parse",
+    "serverURL": "mm-parseserver.herokuapp.com/parse",
     "appId": "myAppId",
     "masterKey": "2swdswqewdwqd3dqwdqq33d3eq",
     "appName": "mmparse-server"
